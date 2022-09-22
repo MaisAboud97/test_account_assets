@@ -62,7 +62,7 @@
           </field>
         </record>
 <!-- add employee data state in kanban view -->
-    <record model="ir.ui.view" id="view_employee_kanban_inherited">
+<!--     <record model="ir.ui.view" id="view_employee_kanban_inherited">
           <field name="name">Employees</field>
           <field name="model">hr.employee</field>
           <field name="inherit_id" ref="hr.hr_kanban_view_employees"/>
@@ -73,7 +73,7 @@
                   </div>
               </xpath>
           </field>
-      </record>
+      </record> -->
 <!-- add state to tree view -->
     <record model="ir.ui.view" id="view_employee_tree_inherited">
           <field name="name">Employees</field>
