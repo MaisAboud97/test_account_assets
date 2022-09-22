@@ -90,7 +90,8 @@ class AradosEmp(models.Model):
         vals['first_name']= vals.get('first_name')
         vals['father_name']= vals.get('father_name')
         vals['nickname']= vals.get('nickname')
-        vals['name']=vals['first_name'] +" "+vals['father_name']+" "+vals['nickname']
+        a= None
+        vals['name']=vals['first_name'] + a +vals['father_name']+ a +vals['nickname']
         res= super(AradosEmp, self).create(vals)
         return res 
         
