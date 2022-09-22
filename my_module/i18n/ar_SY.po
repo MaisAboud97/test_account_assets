@@ -1,0 +1,193 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* arados_emp
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-30 10:30+0000\n"
+"PO-Revision-Date: 2021-11-30 10:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__nickname
+msgid " Nickname"
+msgstr "النسبة"
+
+#. module: arados_emp
+#: model:ir.model,name:arados_emp.model_hr_employee
+msgid "Add Citizenship to employees"
+msgstr ""
+
+#. module: arados_emp
+#: model_terms:ir.ui.view,arch_db:arados_emp.view_employee_form_inherited
+msgid "Add this Fields to complete Employee Data:"
+msgstr "أضف الحقول التالية لاستكمال بيانات الموظف"
+
+#. module: arados_emp
+#: model_terms:ir.ui.view,arch_db:arados_emp.view_employee_form_inherited
+msgid "Canceled"
+msgstr "غير مكتمل"
+
+#. module: arados_emp
+#: model_terms:ir.ui.view,arch_db:arados_emp.view_employee_form_inherited
+msgid "Confirmed"
+msgstr "مكتمل"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__constraint
+msgid "Constraint"
+msgstr "القيد"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__card_number
+msgid "Crad Number"
+msgstr "رقم البطاقة الشخصية"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__delivery_date
+msgid "Delivery Date"
+msgstr "تاريخ المنح"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards__display_name
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__display_name
+msgid "Display Name"
+msgstr "الاسم المعروض"
+
+#. module: arados_emp
+#: model:ir.actions.act_window,name:arados_emp.arados_emp_standard_action
+msgid "Employee Standards"
+msgstr "معايير الموظفون"
+
+#. module: arados_emp
+#: model_terms:ir.ui.view,arch_db:arados_emp.view_employee_form_inherited
+msgid "Employee's Name"
+msgstr "اسم الموظف"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__color_of_eyes
+msgid "Eyes Color"
+msgstr "لون العينين"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__color_of_face
+msgid "Face Color"
+msgstr "لون الوجه"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__father_name
+msgid "Father name"
+msgstr "اسم الأب"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards__field_ids
+msgid "Field"
+msgstr ""
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__honesty
+msgid "Honesty"
+msgstr "الأمانة"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards__id
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__id
+msgid "ID"
+msgstr "المُعرف"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards____last_update
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee____last_update
+msgid "Last Modified on"
+msgstr "آخر تعديل في"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards__model_id
+msgid "Model"
+msgstr "الكائن"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__mother_name
+msgid "Mother name and her Nickname"
+msgstr "اسم ونسبة الأم"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__msg
+msgid "Msg"
+msgstr ""
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_arados_hr_standards__name
+#: model_terms:ir.ui.view,arch_db:arados_emp.view_employee_form_inherited
+msgid "Name"
+msgstr "الاسم"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__specail_marks
+msgid "Specail Marks"
+msgstr "العلامات المميزة"
+
+#. module: arados_emp
+#: model_terms:ir.ui.view,arch_db:arados_emp.arados_emp_standard_form
+#: model_terms:ir.ui.view,arch_db:arados_emp.arados_emp_standard_tree
+msgid "Standard Fields"
+msgstr "الحقول المعيارية"
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__state
+msgid "State"
+msgstr "حالة البيانات"
+
+#. module: arados_emp
+#: model:ir.model.fields.selection,name:arados_emp.selection__hr_employee__state__canceled
+#: model_terms:ir.ui.view,arch_db:arados_emp.view_employee_search_inherited
+msgid "canceled"
+msgstr "غير مكتمل"
+
+#. module: arados_emp
+#: model:ir.model.fields.selection,name:arados_emp.selection__hr_employee__state__confirmed
+#: model_terms:ir.ui.view,arch_db:arados_emp.view_employee_search_inherited
+msgid "confirmed"
+msgstr "مكتمل"
+
+#. module: arados_emp
+#: model:ir.model,name:arados_emp.model_arados_hr_standards
+msgid "hr.standards"
+msgstr ""
+
+#. module: arados_emp
+#: model:ir.model.fields,field_description:arados_emp.field_hr_employee__first_name
+msgid "name"
+msgstr "الاسم"
+
+#. module: arados_emp
+#: model:ir.ui.menu,name:arados_emp.arados_emp_standards
+msgid "standard fields"
+msgstr "الحقول المعيارية"
